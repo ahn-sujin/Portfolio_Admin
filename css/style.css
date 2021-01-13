@@ -185,6 +185,8 @@ body{font-size:14px;  background: #f2f3f8;}
 
 /*------------------login_page-----------------------------------------------*/
 #login{padding:90px 0 0 250px;}
+#login.on{padding:90px 0 0 0px;}
+
 #login .login-box{padding:20px 30px;}
 #login .title {margin:20px 0;}
 #login .title .form{font-size:24px; color: #444; font-weight: bold;}
