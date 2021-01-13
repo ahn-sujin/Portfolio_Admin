@@ -12,7 +12,7 @@ $(function(){
     });
 
     $('.toggle').on('click',function(){
-        $('#header , #nav, #main').toggleClass('on');
+        $('#header , #nav, #main, #login').toggleClass('on');
     });
 
 //datepicker
