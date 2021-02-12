@@ -13,4 +13,4 @@ This site was created with the theme of the admin page. (by ahn-sujin)
 * login_page : 로그인 폼_서브 페이지1 (Page > 로그인 페이지)
 
 ## Contact 
-* asj9674@gmail.com
+* :email:asj9674@gmail.com
